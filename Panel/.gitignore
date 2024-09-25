@@ -32,3 +32,4 @@ vite.config.ts.timestamp-*
 
 # IntelliJ
 .idea/
+*.iml
